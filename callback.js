@@ -25,3 +25,7 @@ document.getElementById('my-btn').addEventListener('click', handleClick)
 document.getElementById('btn').addEventListener('click', function () {
     console.log('buttn is clicked');
 })
+
+/*if you call a funciton with paramiter(that paramiter is also another funtion
+    {that funtion is the CALLBACK funtion}
+)*/
